@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.examples.ffmpeg4android_demo"
+      android:versionCode="3220303"
+      android:versionName="3.22.03.03"
+      split="lib_slice_5_apk">
+</manifest>
