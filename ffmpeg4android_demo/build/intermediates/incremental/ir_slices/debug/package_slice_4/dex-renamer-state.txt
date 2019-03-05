@@ -1,4 +1,4 @@
-#Mon Mar 04 19:28:18 IST 2019
-base.0=C\:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+#Tue Mar 05 13:30:07 IST 2019
+base.0=C\:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

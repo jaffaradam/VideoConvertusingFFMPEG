@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,12,2",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "201,404,53",
+                        "endLines": "10,16,5",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "400,603,199"
+                    },
+                    "to": {
+                        "startLines": "2091,2096,2101",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153453,153653,153853",
+                        "endLines": "2095,2100,2104",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "153648,153848,153996"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Menaka Ahitha\\Downloads\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.1.3.aar\\a54fb2ac149c12c6b98cfed712151e55\\res\\values\\values.xml",
                     "from": {
@@ -42,7 +61,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "3,16,14,15,4,5,7,9,10,13,6",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -58,25 +77,6 @@
                         "endLines": "620,621,622,623,624,625,629,630,633,634,635",
                         "endColumns": "41,202,141,73,55,61,101,134,88,82,127",
                         "endOffsets": "53255,53458,53600,53674,53730,53792,54104,54239,54488,54571,54699"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "6,12,2",
-                        "startColumns": "0,0,0",
-                        "startOffsets": "201,404,53",
-                        "endLines": "10,16,5",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "400,603,199"
-                    },
-                    "to": {
-                        "startLines": "2091,2096,2101",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153453,153653,153853",
-                        "endLines": "2095,2100,2104",
-                        "endColumns": "8,8,8",
-                        "endOffsets": "153648,153848,153996"
                     }
                 },
                 {

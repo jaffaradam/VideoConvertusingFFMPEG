@@ -1,27 +1,27 @@
 #Internal package file, do not edit.
-#Mon Mar 04 19:01:37 IST 2019
-2.base=C\:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\assets\\debug
+#Tue Mar 05 12:20:55 IST 2019
+2.base=C\:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dexMerger\\debug\\12
 5.set=NATIVE_RESOURCE
-0.path=classes.dex
+0.path=lib/armeabi-v7a/libvideokit.so
 2.baseType=DIRECTORY
-3.base=C\:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
-2.set=ASSET
-1.path=classes.dex
-4.base=C\:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.base=C\:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.set=DEX
+1.path=in.mp4
+4.base=C\:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 count=6
 5.baseType=DIRECTORY
-2.path=in.mp4
-5.base=C\:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
-4.set=NATIVE_RESOURCE
+2.path=classes.dex
+5.base=C\:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.set=DEX
 3.path=lib/armeabi-v7a/libloader-jni.so
 3.baseType=DIRECTORY
-1.set=DEX
-4.path=lib/armeabi-v7a/liblicense-jni.so
+1.set=ASSET
+4.path=classes.dex
 1.baseType=DIRECTORY
-5.path=lib/armeabi-v7a/libvideokit.so
-0.base=C\:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+5.path=lib/armeabi-v7a/liblicense-jni.so
+0.base=C\:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 0.baseType=DIRECTORY
 3.set=NATIVE_RESOURCE
-1.base=C\:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+1.base=C\:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\assets\\debug
 4.baseType=DIRECTORY
-0.set=DEX
+0.set=NATIVE_RESOURCE

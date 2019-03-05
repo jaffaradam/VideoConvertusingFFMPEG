@@ -57,7 +57,8 @@ public class SimpleExample extends Activity {
 		//ffmpeg -y -i /sdcard/videokit/in.mp4 -b:v 2097k -s 160x120 -r 30 -aspect 4:3 -ab 48000 -ac 2 -ar 22050 -strict experimental /sdcard/videokit/out.mp4
 
 		//TODO FFMPEG Compressed Code 04/03/2019
-		String path = "ffmpeg -noautorotate -i "+tempPath+" -strict experimental -s 640x480 -r 30 -aspect 4:3 -ab 22050 -ac 2 -ar 22050 -b 2097k /storage/emulated/0/videokit/"+System.currentTimeMillis()+".mp4";
+		//String path = "ffmpeg -noautorotate -i "+tempPath+" -strict experimental -s 640x480 -r 30 -aspect 4:3 -ab 22050 -ac 2 -ar 22050 -b 2097k /storage/emulated/0/videokit/"+System.currentTimeMillis()+".mp4";
+		String path = "ffmpeg -noautorotate -i "+tempPath+" -c:v libx264 -profile:v baseline -strict experimental -preset veryfast -crf 30 -s 640x480 -r 30 -aspect 4:3 -ab 22050 -ac 2 -ar 22050 -b 2097k /storage/emulated/0/videokit/"+System.currentTimeMillis()+".mp4";
 		commandText.setText(path);
 
 		String[] separated = tempPath.split("/");

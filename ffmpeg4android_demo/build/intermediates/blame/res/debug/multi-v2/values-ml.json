@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Menaka Ahitha\\Downloads\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml\\values-ml.xml",
+            "outputFile": "C:\\Users\\Menaka Ahitha\\Downloads\\AndroidStudio Projects\\ffmpeg4android_demo_studio\\ffmpeg4android_demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml\\values-ml.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Menaka Ahitha\\Downloads\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f6f62b1a18e29cf94dda75a8422dc81d\\res\\values-ml\\values-ml.xml",
